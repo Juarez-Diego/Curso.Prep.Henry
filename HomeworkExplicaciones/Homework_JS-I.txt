@@ -1,0 +1,48 @@
+
+
+		Introducción a Javascript
+
+1. Variables
+  - Son como alcancias donde puedes guardar lo que sea:
+  Números, textos, funciones sin tener que volver a escribirlo
+  mil veces. Se guarda hasta que tu decides usarlo.
+
+2. Strings
+  - Todo lo que sean letras, palabras o texto no-numerico
+  se considera string.
+
+3. Funciones(argumentos, return)
+  - Una funcion es como una maquina que te permite repetir una
+  tarea o proceso. Tal como una impresora. Le dices que documento
+  quieres u cuantas veces.
+  - Los argumentos serian los datos que ingresas a la funcion
+  y la funcion se encarga de "hacer" algo con ellos. 
+  En el caso de la impresora, un argumento seria qué documento
+  y cuantas copias quieres.
+  - El return basicamente de devuelve tu informacion ya procesada
+
+ 
+
+4. Declaraciones "if"
+  - Se usa para tomar caminos distintos dependiedo de alguna
+  variable. Por ejemplo, tomas la decision de ir al parque a 
+  jugar dependiendo del clima.
+
+5. Valores booleanos
+  - En la vida real tenemos muchas maneras de comparar las cosas
+  Se puede decir que una cosa es mas grande que la otra, que
+  es un un cierto color, o que dos cosas son iguales. Pero solo
+  tenemos 2 maneras de ponernos de acuerdo sobre esos hechos. 
+  Decimos que la comparacion es verdadera o falsa. Un valor 
+  booleano es eso, una declaracion verdadera de algun hecho. 
+  Nos permite tomar una decision u otra dependiendo del valor. 
+
+
+
+
+
+
+
+
+
+
