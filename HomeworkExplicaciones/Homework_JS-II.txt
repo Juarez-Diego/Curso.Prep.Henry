@@ -1,0 +1,27 @@
+
+			Javascript II 
+  (Flujos de control, operadores de comparación, bucles for)
+
+
+1. Un bucle FOR, nos permite correr una serie de instrucciones
+una y otra vez, realmente cuantas veces se quiera hasta llegar
+a el resultado que estamos buscando. Es como lavar arroz. Se
+enjuaga una y otra vez hasta que el agua quede limpia.
+
+
+2. Los OPERADORES LOGICOS, now ayudan para comparar valores y,
+dependiendo de su resultado tomar alguna accion en especifica.
+El resultado de la evaluacion será verdadero o falso. Si el valor
+es verdadero se ejecuta una accion y otra si es falso.
+
+Por ejemplo, se puede usar el operador (&&) que es (AND), para
+ver si dos valores, o situaciones son verdaderas, y si lo son
+podemos tomar acción o no hacer nada si es falso.
+
+El operador (||) que es (OR) nos devuelve un valor Verdadero
+si una o ambas de las expresiones, o valores es verdadera
+
+El ultimo operador (!), conocido, como (NOT) simplemente 
+cambia el valor booleano a su opuesto de una expresión. 
+Por ejemplo, so tenemos algo verdaero, lo cambia a falso. Y si 
+algo es falso, pues lo cambia a verdadero.
