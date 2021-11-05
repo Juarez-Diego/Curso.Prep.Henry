@@ -1,0 +1,40 @@
+		
+
+		      JAVASCRIPT OBJETOS
+
+
+1. Objetos
+   - Similar a un arreglo pero mas descriptivo. Se puede guardar
+mucha mas informacion sobre una cosa. 
+
+2. Propiedades
+  - Son las cosas que describen a un objeto. Si estamos hablando
+de una persona por ejemplo, una propiedad de ella sera su nombre
+o color favorito. Estas mismas propiedades se pueden usar a lo
+largo de mas objetos para tener una base de datos coherente.
+
+3. Metodos
+  - Los metodos realmente son funciones que se guardan en una
+propiedad. Se puede tener un saludo como objeto, y un idioma
+como propiedad. Dependiendo de el idioma que eliga un usuario
+puede saludar en ese idioma. 
+
+4. Bucle "for...in"
+  - Los arrays tienen Bucles para pasar sobre cada elemento, 
+y los objetos tambien. Estos bucles, diseñados para objetos nos
+permiten iterar sobre cada propiedad de un objeto. 
+
+5. Notaction: Puntos vs Corchetes
+  - La notacion de Puntos realmente se usa para simplificarnos
+la vida. Si necesitamos acceder a una propiedad de un objeto 
+sin tanta palabra se puede usar la notacion dot. La unica 
+desventaja es que no se puede llamar por asi decirlo a una 
+variable
+  - La notacion de corchete si puede acceder a una propiedad 
+aunque esta sea una variable. 
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+
+
+         	    JAVASCRIPT-III ARRAYS
+
+
+1. Si una variable puede almacenar un dato a la vez, entonces
+un Array es como una super variable que puede almacenar un
+bloque de muchos datos. Este bloque puede guardar todo tipo
+de datos, strings, booleanos, numeros, y otros arrays.
+Para crear un array simplemente le damos un nombre y encerramos
+los datos que se desean en brackets [ ], y separados por un 
+comma.
+
+Por ejemplo: 
+
+  1. var unArray = ["Mira", 4, "elementos", "aqui"];
+
+  2. const otroArray [3, 2, 1, "un", ["array", "Chiquito"]];
+			

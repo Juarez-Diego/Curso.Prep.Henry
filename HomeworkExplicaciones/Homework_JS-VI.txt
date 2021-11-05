@@ -1,0 +1,12 @@
+
+
+
+		
+        	    JAVASCRIPT CALLBACKS
+
+1. Callbacks: 
+  - A toda funcion se le puede pasar como argumento cualquier
+  tipo de dato. Puede ser un string, un numero, un booleano e 
+  incluso otra funcion. Esas funciones que se pasa a otra se 
+  llaman callback, porque esencialmente estas llamando una 
+  funcion desde otra.

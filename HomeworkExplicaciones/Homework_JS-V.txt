@@ -1,0 +1,21 @@
+
+
+		
+		     CLASES Y PROTOTYPE
+
+1. Protoype
+  - Javascript tiene una manera de "prestar" metodos. Por 
+  ejemplo, si tenemos un objeto, que queremos usar como
+  plantilla para otros objetos, no tiene sentido usar o escribir
+  metodos para cada instancia nueva. Es mejor pedirla del obejto
+  de donde "nacieron" y asi ahorrarnos tiempo y memoria.
+
+
+
+2. Constructor(de Clases)
+  - Un constructor nos ayuda a no repetirnos al momento de crear
+  un objeto. Se tenemos muchos objetos similares como un a lista
+  de estudiantes que comparten propiedades similares entonces
+  es mas facil hacer una plantilla de esas propiedades y 
+  simplemente ir agregando la informacion de cada objeto
+  Constructors nos permiten hacer eso. 
